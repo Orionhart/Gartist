@@ -17,12 +17,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitch: "https://twitch.tv/charcosmic",
 		twitter: "https://twitter.com/charcosmic",
-		kofi: "",
-		youtube: "",
-		discord: "",
-		fiverr: "",
 		instagram: "https://instagram.com/charcosmic",
-		etsy: ""
 	},
 	background: "img/charcosmic.png",
 	bgcolor: "red"
