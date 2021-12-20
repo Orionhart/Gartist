@@ -26,7 +26,8 @@ export const PEOPLE: Person[] = [
 	bio: "I draw dumb stuff with a mouse.",
 	socials: {
 		twitch: "https://twitch.tv/nachostar1",
-		instagram: "https://www.instagram.com/the_nachostar/"
+		instagram: "https://www.instagram.com/the_nachostar/",
+		link: "https://www.niftypixels.io/nachostar1"
 	},
 	background: "img/nachostar.png",
 	bgcolor: "white"
@@ -52,6 +53,8 @@ export const PEOPLE: Person[] = [
 	bio: "You can call me Susi (soo-see) for short! I draw a lot of animals, dragons, and Pokemon. I use SAI for most of my non-Gartic art. uwu",
 	socials: {
 		twitter: "https://twitter.com/aethranne",
+		tumblr: "http://norisus.tumblr.com",
+		deviant: "http://deviantart.com/susiron"
 	},
 	background: "img/susiron.png",
 	bgcolor: "green"
