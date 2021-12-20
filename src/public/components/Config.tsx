@@ -24,7 +24,7 @@ export const PEOPLE: Person[] = [
 		instagram: "https://instagram.com/charcosmic",
 		etsy: ""
 	},
-	background: "img/star.png",
+	background: "img/charcosmic.png",
 	bgcolor: "red"
 },{
 	name: "Nachostar",
@@ -33,7 +33,7 @@ export const PEOPLE: Person[] = [
 		twitch: "https://twitch.tv/nachostar1",
 		instagram: "https://www.instagram.com/the_nachostar/"
 	},
-	background: "img/star.png",
+	background: "img/nachostar.png",
 	bgcolor: "white"
 },{
 	name: "_SadCactus_",
@@ -41,7 +41,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		youtube: "https://youtube.com/c/SadCactus",
 	},
-	background: "img/star.png",
+	background: "img/sadcactus.png",
 	bgcolor: "white"
 },{
 	name: "Cartesia",
@@ -50,7 +50,7 @@ export const PEOPLE: Person[] = [
 		twitter: "https://twitter.com/Cartesia_",
 		instagram: "https://www.instagram.com/cartesianspace/"
 	},
-	background: "img/star.png",
+	background: "img/cartesia.png",
 	bgcolor: "red"
 },{
 	name: "d",
