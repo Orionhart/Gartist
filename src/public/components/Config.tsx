@@ -34,15 +34,15 @@ export const PEOPLE: Person[] = [
 		instagram: "https://www.instagram.com/the_nachostar/"
 	},
 	background: "img/star.png",
-	bgcolor: "red"
+	bgcolor: "white"
 },{
-	name: "sdfsdfsd",
-	bio: "I do sdfsdfsdf sdf sdfs dfs fthings",
+	name: "_SadCactus_",
+	bio: "Bio? Alright. I was in art school for one year, been told I don't have the skills to be an artist. Well, guess I am not an artist, just a mere cactus who love drawing stupid things!",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		youtube: "https://youtube.com/c/SadCactus",
 	},
 	background: "img/star.png",
-	bgcolor: "red"
+	bgcolor: "white"
 },{
 	name: "s",
 	bio: "I do things",
