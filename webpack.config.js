@@ -7,7 +7,7 @@ const fs = require("fs");
 module.exports = {
 	entry: loadEntries("./src/public"),
 	output: {
-		path: path.resolve(__dirname, "build/public"),
+		path: path.resolve(__dirname, "docs/public"),
 		filename: "./js/[name].js"
 	},
 	module: {
