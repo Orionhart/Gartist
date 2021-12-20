@@ -17,23 +17,19 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitch: "https://twitch.tv/charcosmic",
 		twitter: "https://twitter.com/charcosmic",
-		kofi: "",
-		youtube: "",
-		discord: "",
-		fiverr: "",
 		instagram: "https://instagram.com/charcosmic",
-		etsy: ""
 	},
-	background: "img/star.png",
+	background: "img/charcosmic.png",
 	bgcolor: "red"
 },{
 	name: "Nachostar",
 	bio: "I draw dumb stuff with a mouse.",
 	socials: {
 		twitch: "https://twitch.tv/nachostar1",
-		instagram: "https://www.instagram.com/the_nachostar/"
+		instagram: "https://www.instagram.com/the_nachostar/",
+		link: "https://www.niftypixels.io/nachostar1"
 	},
-	background: "img/star.png",
+	background: "img/nachostar.png",
 	bgcolor: "white"
 },{
 	name: "_SadCactus_",
@@ -41,7 +37,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		youtube: "https://youtube.com/c/SadCactus",
 	},
-	background: "img/star.png",
+	background: "img/sadcactus.png",
 	bgcolor: "white"
 },{
 	name: "Cartesia",
@@ -50,16 +46,18 @@ export const PEOPLE: Person[] = [
 		twitter: "https://twitter.com/Cartesia_",
 		instagram: "https://www.instagram.com/cartesianspace/"
 	},
-	background: "img/star.png",
+	background: "img/cartesia.png",
 	bgcolor: "red"
 },{
-	name: "d",
-	bio: "I do things",
+	name: "Susiron",
+	bio: "You can call me Susi (soo-see) for short! I draw a lot of animals, dragons, and Pokemon. I use SAI for most of my non-Gartic art. uwu",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		twitter: "https://twitter.com/aethranne",
+		tumblr: "http://norisus.tumblr.com",
+		deviant: "http://deviantart.com/susiron"
 	},
-	background: "img/star.png",
-	bgcolor: "red"
+	background: "img/susiron.png",
+	bgcolor: "green"
 },{
 	name: "sdfsfsdfsd",
 	bio: "I do things",
