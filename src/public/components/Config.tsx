@@ -44,10 +44,11 @@ export const PEOPLE: Person[] = [
 	background: "img/star.png",
 	bgcolor: "white"
 },{
-	name: "s",
-	bio: "I do things",
+	name: "Cartesia",
+	bio: "Hey there! Im an artist who loves to draw scenes and OCs, with a hard lean towards fantasy with mixed cartoon/anime styling!\nMy favorite creatures are Satyrs, and I draw and play a lot of Dungeons & Dragons and monster collecting games!\n(I'm also open for Art Trades!)",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		twitter: "https://twitter.com/Cartesia_",
+		instagram: "https://www.instagram.com/cartesianspace/"
 	},
 	background: "img/star.png",
 	bgcolor: "red"
