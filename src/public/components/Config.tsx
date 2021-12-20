@@ -3,7 +3,7 @@ import { Person } from "./SocialCard";
 export const PEOPLE: Person[] = [
 {
 	name: "Orionhart",
-	bio: "Renaissance man from Alaska. Expect nothing from me and I'll seem more impressive!",
+	bio: "Renaissance man. Expect nothing from me and I'll seem more impressive!",
 	socials: {
 		twitch: "https://twitch.tv/orionhart",
 		twitter: "https://twitter.com/OrionhartLive",
