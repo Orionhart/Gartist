@@ -53,13 +53,13 @@ export const PEOPLE: Person[] = [
 	background: "img/cartesia.png",
 	bgcolor: "red"
 },{
-	name: "d",
-	bio: "I do things",
+	name: "Susiron",
+	bio: "You can call me Susi (soo-see) for short! I draw a lot of animals, dragons, and Pokemon. I use SAI for most of my non-Gartic art. uwu",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		twitter: "https://twitter.com/aethranne",
 	},
-	background: "img/star.png",
-	bgcolor: "red"
+	background: "img/susiron.png",
+	bgcolor: "green"
 },{
 	name: "sdfsfsdfsd",
 	bio: "I do things",
