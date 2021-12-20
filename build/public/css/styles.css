@@ -1,0 +1,157 @@
+::-webkit-scrollbar {
+	width: 10px;
+}
+::-webkit-scrollbar-button,
+::-webkit-scrollbar-corner {
+	display: none;
+}
+::-webkit-scrollbar-thumb {
+	background: #ececec;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #e2e2e2;
+}
+::-webkit-scrollbar-thumb:active {
+	background: #b8b8b8;
+}
+::-webkit-scrollbar-track {
+	background: #383838;
+}
+
+/* Color vars should go here */
+:root {
+	--black: black;
+	--bg: rgb(20,10,30);
+	--selected: rgb(111 106 150);
+}
+
+html, body {
+	background-color: var(--bg);
+}
+
+body {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	overflow-y: scroll;
+	margin: 0;
+}
+
+#root {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	flex-direction: column;
+	background-color: var(--bg);
+}
+
+.scl-card {
+	width: 15em;
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: min-content;
+	display: flex;
+	flex-direction: column;
+	padding: 1em;
+	margin: 1em;
+	justify-self: center;
+	color: white;
+	z-index: 2;
+	font-size: 1.1em;
+	text-shadow: 0 0 7px var(--black),0 0 7px var(--black);
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.scl-card::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0.3;
+	z-index: -1;
+}
+.scl-hover {
+	transition: opacity 0.15s, height 0.15s;
+	position: fixed;
+	opacity: 0;
+	visibility: hidden;
+}
+.scl-card:hover > .scl-hover {
+	transition: opacity 0.15s, height 0.15s;
+	opacity: 1;
+	position: relative;
+	visibility: visible;
+}
+.scl-img {
+	width: 3em;
+	height: 3em;
+}
+.scl-name {
+	font-size: 3em;
+	display: inline-flex;
+	justify-content: center;
+}
+.scl-bio {
+	font-size: 1.1em;
+	margin-bottom: 1em;
+	width: 100%;
+	text-align: center;
+}
+.scl-buttons {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
+}
+.scl-buttons > a {
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+.flex-row {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+
+.slideshow {
+	display: flex;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+}
+.navigators {
+	position: absolute;
+	bottom: 1em;
+	display: flex;
+	flex-direction: row;
+
+}
+.slideshow-navigator {
+	cursor: pointer;
+	background-color: white;
+	border-radius: 100px;
+	width: 0.75em;
+	height: 0.75em;
+	margin: 0.5em;
+	box-shadow: 0 0 7px var(--black),0 0 7px var(--black)
+}
+.slideshow-navigator.selected {
+	background-color: var(--selected);
+}
+
+/* Responsive queries go here */
+@media screen and (max-width: 1100px) {
+
+}
+@media screen and (max-width: 824px) {
+
+}
+@media screen and (max-width: 600px) {
+	
+}
