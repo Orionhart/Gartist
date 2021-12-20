@@ -3,32 +3,35 @@ import { Person } from "./SocialCard";
 export const PEOPLE: Person[] = [
 {
 	name: "Orionhart",
-	bio: "I do things",
+	bio: "Renaissance man from Alaska. Expect nothing from me and I'll seem more impressive!",
 	socials: {
 		twitch: "https://twitch.tv/orionhart",
+		twitter: "https://twitter.com/OrionhartLive",
+		kofi: "http://ko-fi.com/orionhart",
 	},
 	background: "img/star.png",
-	bgcolor: "red"
+	bgcolor: "black"
 }, {
-	name: "Orionhart",
-	bio: "I do things",
+	name: "charcosmic",
+	bio: "Art, gaming, and everything in between.",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
-		twitter: "",
+		twitch: "https://twitch.tv/charcosmic",
+		twitter: "https://twitter.com/charcosmic",
 		kofi: "",
 		youtube: "",
 		discord: "",
 		fiverr: "",
-		instagram: "",
+		instagram: "https://instagram.com/charcosmic",
 		etsy: ""
 	},
 	background: "img/star.png",
 	bgcolor: "red"
 },{
-	name: "Orionhart",
-	bio: "I do things",
+	name: "Nachostar",
+	bio: "I draw dumb stuff with a mouse.",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		twitch: "https://twitch.tv/nachostar1",
+		instagram: "https://www.instagram.com/the_nachostar/"
 	},
 	background: "img/star.png",
 	bgcolor: "red"
