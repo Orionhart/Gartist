@@ -60,18 +60,34 @@ export const PEOPLE: Person[] = [
 	background: "img/susiron.jpeg",
 	bgcolor: "green"
 },{
-	name: "sdfsfsdfsd",
-	bio: "I do things",
+	name: "Zenia",
+	bio: "I'm a fat opossum that likes drawing cartoons. I have 3 pet cats and live with my sister. ;)",
 	socials: {
-		twitch: "https://twitch.tv/orionhart",
+		twitter: "https://twitter.com/zenia_rose",
+		link: "http://www.furaffinity.net/user/zenia/"
 	},
 	background: "img/star.png",
-	bgcolor: "red"
+	bgcolor: "#FF3371"
 }
 ];
 
 export const SLIDESHOW_IMAGES = [
-	"img/twitch.png",
-	"img/twitt.png",
-	"img/youtube.png"
+	"img/photobigchief.png",
+	"img/gartic1.png",
+	"img/gartic2.png",
+	"img/gartic3.png",
+	"img/gartic4.png",
+	"img/gartic5.png",
+	"img/gartic6.png",
+	"img/gartic7.png",
+	"img/gartic8.png",
+	"img/gartic9.png",
+	"img/gartic10.png",
+	"img/gartic11.png",
+	"img/gartic12.png",
+	"img/aggie1.png"",
+	"img/aggie2.png"",
+	"img/aggie3.png"",
+	"img/aggie4.png"",
+	"img/aggie5.png"",
 ];
