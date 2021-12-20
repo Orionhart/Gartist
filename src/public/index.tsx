@@ -2,7 +2,7 @@ import * as ReactDom from "react-dom";
 import * as React from "react";
 import SocialCard from "./components/SocialCard";
 import Slideshow from "./components/Slideshow";
-import { PEOPLE } from "./components/Config";
+import { PEOPLE, SLIDESHOW_IMAGES } from "./components/Config";
 
 interface MainProps {}
 interface MainState {
@@ -40,7 +40,7 @@ class Main extends React.Component<MainProps, MainState> {
 			<div className="flex-row" style={{
 				height: (Math.ceil(cards.length / columns) - 0.75) * (4.5915 + 4 + 2) + (13 + 4 + 2) + "em"
 			}}>{cols}</div>
-			<Slideshow imageList={["img/twitch.png", "img/twitt.png", "img/youtube.png"]}></Slideshow>
+			<Slideshow imageList={SLIDESHOW_IMAGES}></Slideshow>
 		</>;
 	}
 }

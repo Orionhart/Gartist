@@ -8,7 +8,10 @@ const SOCIAL_IMGS = {
 	kofi: "img/kofi.png",
 	etsy: "img/etsy.png",
 	fiverr: "img/fiverr.png",
-	discord: "img/discord.png"
+	discord: "img/discord.png",
+	deviantart: "img/deviantart.png",
+	tumblr: "img/tumblr.png",
+	link: ""
 } as {[key:string]: string};
 
 export interface Person {
@@ -27,6 +30,7 @@ export interface Person {
 	}
 	background: string;
 	bgcolor: string;
+	fontsize?: string;
 }
 
 interface SocialCardState {}
@@ -47,7 +51,9 @@ export default class SocialCard extends Component<Person, SocialCardState> {
 				backgroundImage: `url("${this.props.background}")`,
 				backgroundColor: this.props.bgcolor
 			}}>
-			<div className="scl-name">{this.props.name}</div>
+			<div className="scl-name" style={
+				this.props.fontsize ? {fontSize: this.props.fontsize} : {}
+			}>{this.props.name}</div>
 			<div className="scl-hover">				
 				<div className="scl-bio">{this.props.bio}</div>
 				<div className="scl-buttons">

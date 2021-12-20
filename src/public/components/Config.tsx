@@ -38,7 +38,8 @@ export const PEOPLE: Person[] = [
 		youtube: "https://youtube.com/c/SadCactus",
 	},
 	background: "img/sadcactus.png",
-	bgcolor: "white"
+	bgcolor: "white",
+	fontsize: "2.6em"
 },{
 	name: "Cartesia",
 	bio: "Hey there! Im an artist who loves to draw scenes and OCs, with a hard lean towards fantasy with mixed cartoon/anime styling!\nMy favorite creatures are Satyrs, and I draw and play a lot of Dungeons & Dragons and monster collecting games!\n(I'm also open for Art Trades!)",
@@ -56,7 +57,7 @@ export const PEOPLE: Person[] = [
 		tumblr: "http://norisus.tumblr.com",
 		deviant: "http://deviantart.com/susiron"
 	},
-	background: "img/susiron.png",
+	background: "img/susiron.jpeg",
 	bgcolor: "green"
 },{
 	name: "sdfsfsdfsd",
@@ -67,4 +68,10 @@ export const PEOPLE: Person[] = [
 	background: "img/star.png",
 	bgcolor: "red"
 }
+];
+
+export const SLIDESHOW_IMAGES = [
+	"img/twitch.png",
+	"img/twitt.png",
+	"img/youtube.png"
 ];
