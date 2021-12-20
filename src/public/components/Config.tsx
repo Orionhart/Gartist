@@ -66,7 +66,7 @@ export const PEOPLE: Person[] = [
 		twitter: "https://twitter.com/zenia_rose",
 		link: "http://www.furaffinity.net/user/zenia/"
 	},
-	background: "img/star.png",
+	background: "img/zenia.png",
 	bgcolor: "#FF3371"
 }
 ];
