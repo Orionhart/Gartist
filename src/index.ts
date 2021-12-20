@@ -6,7 +6,7 @@ const app = express();
 
 const PORT = 8080;
 
-app.use(express.static(path.join(__dirname, "public")));
+app.use(express.static(path.join(__dirname)));
 
 app.get("/", (req: Request, res: Response) => {
 	res.sendFile(path.join(__dirname, "index.html"));

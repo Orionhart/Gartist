@@ -26,7 +26,7 @@ const express_1 = __importDefault(require("express"));
 const path = __importStar(require("path"));
 const app = (0, express_1.default)();
 const PORT = 8080;
-app.use(express_1.default.static(path.join(__dirname, "public")));
+app.use(express_1.default.static(path.join(__dirname)));
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "index.html"));
 });

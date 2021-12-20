@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "build/index.js",
+  "main": "docs/index.js",
   "scripts": {
     "build": "webpack & tsc & time /T",
     "watch": "npm-watch build"
