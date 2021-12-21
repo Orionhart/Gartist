@@ -38,7 +38,7 @@ class Main extends React.Component<MainProps, MainState> {
 		});
 		return <>
 			<div className="flex-row" style={{
-				height: (Math.ceil(cards.length / columns) - 0.75) * (4.5915 + 4 + 2) + (13 + 4 + 2) + "em"
+				height: ((Math.ceil(cards.length / columns)) * (7 + 4 + 2) + (13 + 4 + 2)) + "em"
 			}}>{cols}</div>
 			<Slideshow imageList={SLIDESHOW_IMAGES}></Slideshow>
 		</>;

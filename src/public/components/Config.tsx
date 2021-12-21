@@ -85,9 +85,9 @@ export const SLIDESHOW_IMAGES = [
 	"img/gartic10.png",
 	"img/gartic11.png",
 	"img/gartic12.png",
-	"img/aggie1.png"",
-	"img/aggie2.png"",
-	"img/aggie3.png"",
-	"img/aggie4.png"",
-	"img/aggie5.png"",
+	"img/aggie1.png",
+	"img/aggie2.png",
+	"img/aggie3.png",
+	"img/aggie4.png",
+	"img/aggie5.png"
 ];
