@@ -11,7 +11,7 @@ const SOCIAL_IMGS = {
 	discord: "img/discord.png",
 	deviantart: "img/deviantart.png",
 	tumblr: "img/tumblr.png",
-	link: ""
+	link: "img/link.png"
 } as {[key:string]: string};
 
 export interface Person {
@@ -27,6 +27,9 @@ export interface Person {
 		etsy?: string;
 		fiverr?: string;
 		discord?: string;
+		link?: string;
+		deviantart?: string;
+		tumblr?: string;
 	}
 	background: string;
 	bgcolor: string;

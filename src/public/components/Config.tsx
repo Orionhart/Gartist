@@ -55,7 +55,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitter: "https://twitter.com/aethranne",
 		tumblr: "http://norisus.tumblr.com",
-		deviant: "http://deviantart.com/susiron"
+		deviantart: "http://deviantart.com/susiron"
 	},
 	background: "img/susiron.jpeg",
 	bgcolor: "green"
@@ -67,6 +67,35 @@ export const PEOPLE: Person[] = [
 		link: "http://www.furaffinity.net/user/zenia/"
 	},
 	background: "img/zenia.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Anvalina",
+	bio: "Hi, I'm Anvy! I'm a chinchilla vtuber who does (mostly furry) art, streams and plays video games. Hope you'll have a great time here ^^",
+	socials: {
+		twitch: "https://www.twitch.tv/anvalina",
+		twitter: "https://twitter.com/anvalina",
+		instagram: "https://www.instagram.com/anvalina/"
+	},
+	background: "img/anvalina.png",
+	bgcolor: "#FF7D97"
+},{
+	name: "Locomon34",
+	bio: "Hey there! I'm just a weird frog who likes to draw weirder things!",
+	socials: {
+		twitch: "https://www.twitch.tv/locomon34",
+		twitter: "https://www.instagram.com/locomon34/",
+		kofi: "https://ko-fi.com/locomon3448335"
+	},
+	background: "img/locomon.png",
+	bgcolor: "#FF3371"
+},{
+	name: "TeethOla",
+	bio: "Taiwanese. Usually post some exercise pictures.",
+	socials: {
+		twitter: "https://twitter.com/Teethola",
+		link: "https://www.pixiv.net/users/34779599"
+	},
+	background: "img/teethola.png",
 	bgcolor: "#FF3371"
 }
 ];
