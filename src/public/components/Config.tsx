@@ -97,6 +97,126 @@ export const PEOPLE: Person[] = [
 	},
 	background: "img/teethola.png",
 	bgcolor: "#FF3371"
+},{
+	name: "saulsriets",
+	bio: "<bio missing>",
+	socials: {
+		twitter: "https://twitter.com/Sauleriets_",
+		instagram: "https://instagram.com/sauleriets_"
+	},
+	background: "img/saulsriets.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Artwomble",
+	bio: "Freelance illustrator with 15 years experience. Reduced to playing drawing games for attention.",
+	socials: {
+		twitter: "https://twitter.com/Artwomble",
+		twitch: "https://www.twitch.tv/Artwomble",
+		link: "https://www.tiktok.com/@artwomble?lang=en"
+	},
+	background: "img/artwomble.png",
+	bgcolor: "#FF3371"
+},{
+	name: "VoxAetheria",
+	bio: "Just a scuffed artist who loves learning new things~",
+	socials: {
+		twitch: "https://www.twitch.tv/voxaetheria",
+		twitter: "https://twitter.com/vox_aetheria"
+	},
+	background: "img/teethola.png",
+	bgcolor: "#FF3371"
+},{
+	name: "anticoleslaw",
+	bio: "traditional artist who thrives in chaos attempting to dive into the digital world",
+	socials: {
+		twitch: "https://twitch.tv/anticoleslaw",
+		instagram: "https://www.instagram.com/salladdallas69",
+		link: "https://tiktok.com/@salladdallas69"
+	},
+	background: "img/anticoleslaw.png",
+	bgcolor: "#FF3371"
+},{
+	name: "VersionGVS",
+	bio: "Male\nAsia\nBeen drawing for 3 years\nDon't know what to do with art, and that is why I play Gartic Phone, and how I ended up being here",
+	socials: {
+		instagram: "https://www.instagram.com/versiongvs/",
+		twitter: "https://twitter.com/versiongvs"
+	},
+	background: "img/versiongvs.png",
+	bgcolor: "#FF3371"
+},{
+	name: "kvultimate",
+	bio: "A guy that likes to make art and videos.\nOpen to collab.",
+	socials: {
+		twitter: "https://twitter.com/kvultimate",
+		link: "https://www.tiktok.com/@kvultimate"
+	},
+	background: "img/kvultimate.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Lazytowner",
+	bio: "Sometimes I draw. Most times I cry.",
+	socials: {
+		twitch: "https://Twitch.tv/lazytowner",
+		instagram: "https://Instagram.com/alexaceart"
+	},
+	background: "img/lazytowner.png",
+	bgcolor: "#FF3371"
+},{
+	name: "MakaOwence",
+	bio: "Self taught illustrator who trying to improve in anatomy. I really enjoy playing video games and writing short story premises.",
+	socials: {
+		twitter: "https://twitter.com/Maka_Owence"
+	},
+	background: "img/makaowence.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Lemondropzz",
+	bio: "I specialize in cartoon, realistic, landscapes, and furry art- just to name a few. I am no professional my any means but that doesn't stop me from continuing something I love.",
+	socials: {
+		twitch: "https://www.twitch.tv/lemondropzz",
+		instagram: "https://instagram.com/_britt_x3_"
+	},
+	background: "img/lemondropzz.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Photosynthesaurus",
+	bio: "I'm a dinosaur who likes to draw, and Chefrossi's sidekick.",
+	socials: {
+		twitch: "www.twitch.tv/chefrossi",
+		instagram: "www.instagram.com/photo.synthesaurus",
+		link: "www.twitch.tv/photosynthesaurus"
+	},
+	background: "img/photosynthesaurus.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Beansnail",
+	bio: "extremely cool guy\npixel art , digital and 3d",
+	socials: {
+		twitter: "https://twitter.com/TheBeanSnail",
+		link: "https://www.artstation.com/beansnail"
+	},
+	background: "img/beansnail.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Taffycat36",
+	bio: "hey I'm taffycat36! I'm a pixel artist who likes to play gartic/aggie.io a lot with other games on my twitch!",
+	socials: {
+		twitch: "https://www.twitch.tv/taffycat36",
+		instagram: "https://instagram.com/tom_nikel",
+		link: "https://www.flowcode.com/page/taffycat"
+	},
+	background: "img/taffycat36.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Fishtofu",
+	bio: "Realistically, I am just here. I like art.",
+	socials: {
+		twitch: "https://www.twitch.tv/fishtofu39",
+		instagram: "https://www.instagram.com/fishtofu39/?hl=en"
+	},
+	background: "img/fishtofu.png",
+	bgcolor: "#FF3371"
 }
 ];
 
