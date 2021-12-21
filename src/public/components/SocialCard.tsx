@@ -11,7 +11,10 @@ const SOCIAL_IMGS = {
 	discord: "img/discord.png",
 	deviantart: "img/deviantart.png",
 	tumblr: "img/tumblr.png",
-	link: "img/link.png"
+	link: "img/link.png",
+	pixiv: "img/pixiv.png",
+	furaffinity: "img/furaffinity.png",
+	niftypixels: "img/niftypixels.png"
 } as {[key:string]: string};
 
 export interface Person {
@@ -30,6 +33,9 @@ export interface Person {
 		link?: string;
 		deviantart?: string;
 		tumblr?: string;
+		pixiv?: string;
+		furaffinity?: string;
+		niftypixels?: string;
 	}
 	background: string;
 	bgcolor: string;

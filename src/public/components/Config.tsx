@@ -27,7 +27,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitch: "https://twitch.tv/nachostar1",
 		instagram: "https://www.instagram.com/the_nachostar/",
-		link: "https://www.niftypixels.io/nachostar1"
+		niftypixels: "https://www.niftypixels.io/nachostar1"
 	},
 	background: "img/nachostar.png",
 	bgcolor: "white"
@@ -64,7 +64,7 @@ export const PEOPLE: Person[] = [
 	bio: "I'm a fat opossum that likes drawing cartoons. I have 3 pet cats and live with my sister. ;)",
 	socials: {
 		twitter: "https://twitter.com/zenia_rose",
-		link: "http://www.furaffinity.net/user/zenia/"
+		furaffinity: "http://www.furaffinity.net/user/zenia/"
 	},
 	background: "img/zenia.png",
 	bgcolor: "#FF3371"
@@ -93,7 +93,7 @@ export const PEOPLE: Person[] = [
 	bio: "Taiwanese. Usually post some exercise pictures.",
 	socials: {
 		twitter: "https://twitter.com/Teethola",
-		link: "https://www.pixiv.net/users/34779599"
+		pixiv: "https://www.pixiv.net/users/34779599"
 	},
 	background: "img/teethola.png",
 	bgcolor: "#FF3371"
