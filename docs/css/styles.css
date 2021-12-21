@@ -123,8 +123,6 @@ body {
 	align-items: center;
 	justify-content: center;
 	flex-direction: row;
-	width: 100%; 
-	max-width: 37.5em;
 }
 .navigators {
 	position: absolute;

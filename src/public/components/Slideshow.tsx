@@ -38,6 +38,8 @@ export default class Slideshow extends Component<SlideshowProps, SlideshowState>
 		let images = this.props.imageList.map((url, i) => {
 			return <img src={url} className="slideshow-image" key={url} style={{
 				display: this.state.position === i ? "block" : "none",
+				width: "100%",
+				maxWidth: "auto"
 			}}></img>
 		});
 		let navigators = this.props.imageList.map((image, i) => {
