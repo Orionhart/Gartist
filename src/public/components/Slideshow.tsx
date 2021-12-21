@@ -8,7 +8,7 @@ interface SlideshowState {
 }
 
 export default class Slideshow extends Component<SlideshowProps, SlideshowState> {
-	private static INTERVAL_TIMEOUT = 6 * 1000;
+	private static INTERVAL_TIMEOUT = 30 * 1000;
 
 	private timeout: number;
 

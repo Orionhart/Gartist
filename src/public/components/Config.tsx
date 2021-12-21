@@ -123,8 +123,9 @@ export const PEOPLE: Person[] = [
 		twitch: "https://www.twitch.tv/voxaetheria",
 		twitter: "https://twitter.com/vox_aetheria"
 	},
-	background: "img/teethola.png",
-	bgcolor: "#FF3371"
+	background: "img/voxaetheria.png",
+	bgcolor: "#FF3371",
+	fontsize: "2.6em"
 },{
 	name: "anticoleslaw",
 	bio: "traditional artist who thrives in chaos attempting to dive into the digital world",
@@ -161,7 +162,8 @@ export const PEOPLE: Person[] = [
 		instagram: "https://Instagram.com/alexaceart"
 	},
 	background: "img/lazytowner.png",
-	bgcolor: "#FF3371"
+	bgcolor: "#FF3371",
+	fontsize: "2.6em"
 },{
 	name: "MakaOwence",
 	bio: "Self taught illustrator who trying to improve in anatomy. I really enjoy playing video games and writing short story premises.",
@@ -169,7 +171,8 @@ export const PEOPLE: Person[] = [
 		twitter: "https://twitter.com/Maka_Owence"
 	},
 	background: "img/makaowence.png",
-	bgcolor: "#FF3371"
+	bgcolor: "#FF3371",
+	fontsize: "2.6em"
 },{
 	name: "Lemondropzz",
 	bio: "I specialize in cartoon, realistic, landscapes, and furry art- just to name a few. I am no professional my any means but that doesn't stop me from continuing something I love.",
@@ -178,7 +181,8 @@ export const PEOPLE: Person[] = [
 		instagram: "https://instagram.com/_britt_x3_"
 	},
 	background: "img/lemondropzz.png",
-	bgcolor: "#FF3371"
+	bgcolor: "#FF3371",
+	fontsize: "2.3em"
 },{
 	name: "Photosynthesaurus",
 	bio: "I'm a dinosaur who likes to draw, and Chefrossi's sidekick.",
@@ -188,7 +192,8 @@ export const PEOPLE: Person[] = [
 		link: "www.twitch.tv/photosynthesaurus"
 	},
 	background: "img/photosynthesaurus.png",
-	bgcolor: "#FF3371"
+	bgcolor: "#FF3371",
+	fontsize: "2.0em"
 },{
 	name: "Beansnail",
 	bio: "extremely cool guy\npixel art , digital and 3d",
