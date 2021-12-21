@@ -112,7 +112,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitter: "https://twitter.com/Artwomble",
 		twitch: "https://www.twitch.tv/Artwomble",
-		link: "https://www.tiktok.com/@artwomble?lang=en"
+		tiktok: "https://www.tiktok.com/@artwomble?lang=en"
 	},
 	background: "img/artwomble.png",
 	bgcolor: "#FF3371"
@@ -132,7 +132,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitch: "https://twitch.tv/anticoleslaw",
 		instagram: "https://www.instagram.com/salladdallas69",
-		link: "https://tiktok.com/@salladdallas69"
+		tiktok: "https://tiktok.com/@salladdallas69"
 	},
 	background: "img/anticoleslaw.png",
 	bgcolor: "#FF3371"
@@ -150,7 +150,7 @@ export const PEOPLE: Person[] = [
 	bio: "A guy that likes to make art and videos.\nOpen to collab.",
 	socials: {
 		twitter: "https://twitter.com/kvultimate",
-		link: "https://www.tiktok.com/@kvultimate"
+		tiktok: "https://www.tiktok.com/@kvultimate"
 	},
 	background: "img/kvultimate.png",
 	bgcolor: "#FF3371"
@@ -187,9 +187,9 @@ export const PEOPLE: Person[] = [
 	name: "Photosynthesaurus",
 	bio: "I'm a dinosaur who likes to draw, and Chefrossi's sidekick.",
 	socials: {
-		twitch: "www.twitch.tv/chefrossi",
-		instagram: "www.instagram.com/photo.synthesaurus",
-		link: "www.twitch.tv/photosynthesaurus"
+		twitch: "https://www.twitch.tv/chefrossi",
+		instagram: "https://www.instagram.com/photo.synthesaurus",
+		link: "https://www.twitch.tv/photosynthesaurus"
 	},
 	background: "img/photosynthesaurus.png",
 	bgcolor: "#FF3371",
@@ -199,7 +199,7 @@ export const PEOPLE: Person[] = [
 	bio: "extremely cool guy\npixel art , digital and 3d",
 	socials: {
 		twitter: "https://twitter.com/TheBeanSnail",
-		link: "https://www.artstation.com/beansnail"
+		artstation: "https://www.artstation.com/beansnail"
 	},
 	background: "img/beansnail.png",
 	bgcolor: "#FF3371"

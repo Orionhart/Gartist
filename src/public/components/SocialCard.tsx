@@ -14,6 +14,8 @@ const SOCIAL_IMGS = {
 	link: "img/link.png",
 	pixiv: "img/pixiv.png",
 	furaffinity: "img/furaffinity.png",
+	tiktok: "img/tiktok.png",
+	artstation: "img/artstation.png",
 	niftypixels: "img/niftypixels.png"
 } as {[key:string]: string};
 
@@ -36,6 +38,8 @@ export interface Person {
 		pixiv?: string;
 		furaffinity?: string;
 		niftypixels?: string;
+		tiktok?: string;
+		artstation?: string;
 	}
 	background: string;
 	bgcolor: string;
