@@ -102,21 +102,6 @@ export const PEOPLE: Person[] = [
 
 export const SLIDESHOW_IMAGES = [
 	"img/photobigchief.png",
-	"img/gartic1.png",
-	"img/gartic2.png",
-	"img/gartic3.png",
-	"img/gartic4.png",
-	"img/gartic5.png",
-	"img/gartic6.png",
-	"img/gartic7.png",
-	"img/gartic8.png",
-	"img/gartic9.png",
-	"img/gartic10.png",
 	"https://cdn.discordapp.com/attachments/922560657545658379/922766812779773962/gartic11.gif",
 	"https://cdn.discordapp.com/attachments/922560657545658379/922766813023068181/gartic12.gif",
-	"img/aggie1.png",
-	"img/aggie2.png",
-	"img/aggie3.png",
-	"img/aggie4.png",
-	"img/aggie5.png"
 ];
