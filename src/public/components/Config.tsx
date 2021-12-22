@@ -158,7 +158,7 @@ export const PEOPLE: Person[] = [
 	name: "Lazytowner",
 	bio: "Sometimes I draw. Most times I cry.",
 	socials: {
-		twitch: "https://Twitch.tv/lazytowner",
+		twitch: "https://twitch.tv/lazytowner",
 		instagram: "https://Instagram.com/alexaceart"
 	},
 	background: "img/lazytowner.png",
@@ -221,6 +221,24 @@ export const PEOPLE: Person[] = [
 		instagram: "https://www.instagram.com/fishtofu39/?hl=en"
 	},
 	background: "img/fishtofu.png",
+	bgcolor: "#FF3371"
+},{
+	name: "mangabent",
+	bio: "Artists/cartoonist whose interests include dnd, fantasy, anime, pokemon, and sci-fi",
+	socials: {
+		twitch: "https://twitch.tv/mangabent",
+		instagram: "https://www.instagram.com/dndndoodles/",
+		discord: "https://discord.gg/VxpBb4JPUh"
+	},
+	background: "img/mangabent.png",
+	bgcolor: "#FF3371"
+},{
+	name: "PandaaNoms",
+	bio: "A panda that loves to draw cartoon style art involving my friends.",
+	socials: {
+		instagram: "https://www.instagram.com/pandaanoms"
+	},
+	background: "img/pandaanoms.png",
 	bgcolor: "#FF3371"
 }
 ];
