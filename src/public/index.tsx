@@ -37,10 +37,15 @@ class Main extends React.Component<MainProps, MainState> {
 			return <div className="column" key={`column${i}`}>{arr}</div>;
 		});
 		return <>
+			<div className="title-text">Gartist Corner</div>
 			<div className="flex-row" style={{
-				height: ((Math.ceil(cards.length / columns)) * (7 + 4 + 2) + (13 + 4 + 2)) + "em"
+				height: (((Math.ceil(cards.length / columns)) * 14)) + "em"
 			}}>{cols}</div>
 			<Slideshow imageList={SLIDESHOW_IMAGES}></Slideshow>
+			<div className="bottom-bar">
+				<a href="mailto:gartistcorner@gmail.com">Contact Us!</a>
+				<a href="https://www.youtube.com/channel/UCmRKXnWBkbZ7RLWW_X3LPXg">Youtube Channel</a>
+			</div>
 		</>;
 	}
 }

@@ -193,7 +193,7 @@ export const PEOPLE: Person[] = [
 	},
 	background: "img/photosynthesaurus.png",
 	bgcolor: "#FF3371",
-	fontsize: "2.0em"
+	fontsize: "1.75em"
 },{
 	name: "Beansnail",
 	bio: "extremely cool guy\npixel art , digital and 3d",
