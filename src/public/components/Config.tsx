@@ -138,7 +138,7 @@ export const PEOPLE: Person[] = [
 	bgcolor: "#FF3371"
 },{
 	name: "VersionGVS",
-	bio: "Male\nAsia\nBeen drawing for 3 years\nDon't know what to do with art, and that is why I play Gartic Phone, and how I ended up being here",
+	bio: "Ello! I draw random sketches and stuff, My socials are pretty dead, But I'm still online so feel free to message me if you want to interact!",
 	socials: {
 		instagram: "https://www.instagram.com/versiongvs/",
 		twitter: "https://twitter.com/versiongvs"
@@ -159,7 +159,7 @@ export const PEOPLE: Person[] = [
 	bio: "Sometimes I draw. Most times I cry.",
 	socials: {
 		twitch: "https://twitch.tv/lazytowner",
-		instagram: "https://Instagram.com/alexaceart"
+		instagram: "https://instagram.com/alexaceart"
 	},
 	background: "img/lazytowner.png",
 	bgcolor: "#FF3371",
@@ -175,7 +175,7 @@ export const PEOPLE: Person[] = [
 	fontsize: "2.6em"
 },{
 	name: "Lemondropzz",
-	bio: "I specialize in cartoon, realistic, landscapes, and furry art- just to name a few. I am no professional my any means but that doesn't stop me from continuing something I love.",
+	bio: "I specialize in cartoon, realistic, landscapes, and furry art- just to name a few. I am no professional by any means but that doesn't stop me from continuing something I love.",
 	socials: {
 		twitch: "https://www.twitch.tv/lemondropzz",
 		instagram: "https://instagram.com/_britt_x3_"
@@ -195,7 +195,7 @@ export const PEOPLE: Person[] = [
 	bgcolor: "#FF3371",
 	fontsize: "1.75em"
 },{
-	name: "Beansnail",
+	name: "beansnail",
 	bio: "extremely cool guy\npixel art , digital and 3d",
 	socials: {
 		twitter: "https://twitter.com/TheBeanSnail",
@@ -209,6 +209,7 @@ export const PEOPLE: Person[] = [
 	socials: {
 		twitch: "https://www.twitch.tv/taffycat36",
 		instagram: "https://instagram.com/tom_nikel",
+		discord: "https://discord.com/invite/4UXVRsT",
 		link: "https://www.flowcode.com/page/taffycat"
 	},
 	background: "img/taffycat36.png",
@@ -239,6 +240,36 @@ export const PEOPLE: Person[] = [
 		instagram: "https://www.instagram.com/pandaanoms"
 	},
 	background: "img/pandaanoms.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Hawki_e",
+	bio: "Hey all, I'm Hawki_e! I do art in the free time, and I specialize in drawing characters and stuff or something maybe.",
+	socials: {
+	},
+	background: "img/hawki_e.png",
+	bgcolor: "#FF3371"
+},{
+	name: "Chefrossi",
+	bio: "Yeah, I'm a bit of a Drawer, a Gamer, a young Italian Cooker who acts like a Dumbasser for about 1000 individuals",
+	socials: {
+		twitch: "https://twitch.tv/chefrossi",
+		twitter: "https://twitter.com/MasterChefRossi"
+	},
+	background: "img/chefrossi.png",
+	bgcolor: "#FF3371"
+},{
+	name: "SillyV",
+	bio: "<bio missing>",
+	socials: {
+	},
+	background: "img/sillyv.png",
+	bgcolor: "#FF3371"
+},{
+	name: "LeFishTank",
+	bio: "<bio missing>",
+	socials: {
+	},
+	background: "img/lefishtank.png",
 	bgcolor: "#FF3371"
 }
 ];
