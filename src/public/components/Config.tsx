@@ -271,6 +271,29 @@ export const PEOPLE: Person[] = [
 	},
 	background: "img/lefishtank.png",
 	bgcolor: "#FF3371"
+},{
+	name: "Jessyabeb",
+	bio: "Former mental health nurse turned digital artist/streamer.",
+	socials: {
+		twitch: "https://twitch.tv/jessyabeb",
+		twitter: "https://twitter.com/jessyabeb",
+		kofi: "https://ko-fi.com/jessyabeb",
+		instagram: "https://www.instagram.com/jessyabeb/",
+		link: "jessyabeb.com"
+	},
+	background: "img/jessyabeb.png",
+	bgcolor: "#FF3371"
+},{
+	name: "AlterableAxe797",
+	bio: "Part time idiot, full time sexy hunk of man.",
+	socials: {
+		twitch: "https://www.twitch.tv/alterableaxe797",
+		discord: "https://discord.gg/fR5RmbfGuk",
+		youtube: "https://www.youtube.com/channel/UCMTinRG-_SqlugKmeg6GzWw/videos"
+	},
+	background: "img/alterableaxe797.png",
+	bgcolor: "#FF3371",
+	fontsize: "1.75em"
 }
 ];
 
