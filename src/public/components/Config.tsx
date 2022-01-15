@@ -99,10 +99,11 @@ export const PEOPLE: Person[] = [
 	bgcolor: "#FF3371"
 },{
 	name: "saulsriets",
-	bio: "<bio missing>",
+	bio: "I make art, and sometimes I share it... rarely... not often... Its a once in a Blue Moon type thing.",
 	socials: {
-		twitter: "https://twitter.com/Sauleriets_",
-		instagram: "https://instagram.com/sauleriets_"
+		twitter: "https://twitter.com/Saulesriets_",
+		twitch: "https://twitch.com/Saulesriets_",
+		instagram: "https://instagram.com/saulesarts"
 	},
 	background: "img/saulsriets.png",
 	bgcolor: "#FF3371"
@@ -216,7 +217,7 @@ export const PEOPLE: Person[] = [
 	bgcolor: "#FF3371"
 },{
 	name: "Fishtofu",
-	bio: "Realistically, I am just here. I like art.",
+	bio: "I am just here, I really enjoy making art and attempting at animation.",
 	socials: {
 		twitch: "https://www.twitch.tv/fishtofu39",
 		instagram: "https://www.instagram.com/fishtofu39/?hl=en"
@@ -266,8 +267,10 @@ export const PEOPLE: Person[] = [
 	bgcolor: "#FF3371"
 },{
 	name: "LeFishTank",
-	bio: "<bio missing>",
+	bio: "As a Gartic Phone nomad, I travel endlessly from stream to stream in search of good vibes and good times.",
 	socials: {
+		twitch:"https://www.twitch.tv/lefishtank",
+		twitter:"https://twitter.com/LeFishTank"
 	},
 	background: "img/lefishtank.png",
 	bgcolor: "#FF3371"
@@ -293,6 +296,57 @@ export const PEOPLE: Person[] = [
 	},
 	background: "img/alterableaxe797.png",
 	bgcolor: "#FF3371",
+	fontsize: "1.75em"
+},{
+	name: "meeerk",
+	bio: "i make a music.",
+	socials: {
+		spotify: "https://open.spotify.com/artist/2BMCR1srt6VgzGOekcM4mK?si=AtDVxuOcSZCZMKckJuVGQw",
+		bandcamp: "https://markbondar.bandcamp.com/",
+		youtube: "https://www.youtube.com/channel/UCiyuhf-q4xxqv9iCOmQkzvg"
+	},
+	background: "img/meeerk.png",
+	bgcolor: "#FF3371",
+	fontsize: "1.75em"
+},{
+	name: "Gali Odie",
+	bio: "Hi! I'm Gali! Just a gal passionate in animation!",
+	socials: {
+		instagram: "instagram.com/gali_lodie"
+	},
+	background: "img/galiodie.png",
+	bgcolor: "#FF3371",
+	fontsize: "1.75em"
+},{
+	name: "WispySpectre",
+	bio: "I'm a spooky ghost who wants to be good at drawing spooky yet cute art! I also do lots of pixel art :3",
+	socials: {
+		twitter: "https://twitter.com/SpectreWispy",
+		twitch: "https://www.twitch.tv/wispyspectre"
+	},
+	background: "img/wispyspectre.png",
+	bgcolor: "#FF3371",
+	fontsize: "1.75em"
+},{
+	name: "yoonvz",
+	bio: "hi! im a digital artist who loves to draw semi-realistic portraits and occasionally some emotes of my favourite characters.",
+	socials: {
+		instagram: "https://www.instagram.com/yoonlins/",
+		twitter: "https://twitter.com/yoonlinz "
+	},
+	background: "img/yoonvz.jpg",
+	bgcolor: "#FF3371",
+	fontsize: "1.75em"
+},{
+	name: "MookieCrums",
+	bio: "Am a smol artizt hu als animeets sumtiemz :> I loik tu maek peeps happe :D ",
+	socials: {
+		instagram: "https://www.Instagram.com/mookie.crums",
+		youtube: "https://youtube.com/channel/UCUmB2vXztR01ByAC2BruU4g",
+		twitch: "https://twitch.tv/mookiecrums "
+	},
+	background: "img/mookie.jpg",
+	bgcolor: "#D18781",
 	fontsize: "1.75em"
 }
 ];

@@ -16,7 +16,9 @@ const SOCIAL_IMGS = {
 	furaffinity: "img/furaffinity.png",
 	tiktok: "img/tiktok.png",
 	artstation: "img/artstation.png",
-	niftypixels: "img/niftypixels.png"
+	niftypixels: "img/niftypixels.png",
+	spotify:"img/spotify.png",
+	bandcamp:"img/bandcamp.png"
 } as {[key:string]: string};
 
 export interface Person {
@@ -40,6 +42,8 @@ export interface Person {
 		niftypixels?: string;
 		tiktok?: string;
 		artstation?: string;
+		spotify?: string;
+		bandcamp?: string;
 	}
 	background: string;
 	bgcolor: string;
