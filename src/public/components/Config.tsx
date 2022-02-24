@@ -98,15 +98,15 @@ export const PEOPLE: Person[] = [
 	background: "img/teethola.png",
 	bgcolor: "#FF3371"
 },{
-	name: "saulsriets",
+	name: "Saulesriets",
 	bio: "I make art, and sometimes I share it... rarely... not often... Its a once in a Blue Moon type thing.",
 	socials: {
 		twitter: "https://twitter.com/Saulesriets_",
-		twitch: "https://twitch.com/Saulesriets_",
+		twitch: "https://twitch.com/Saulesriets",
 		instagram: "https://instagram.com/saulesarts"
 	},
 	background: "img/saulsriets.png",
-	bgcolor: "#FF3371"
+	bgcolor: "#FFFFFF"
 },{
 	name: "Artwomble",
 	bio: "Freelance illustrator with 15 years experience. Reduced to playing drawing games for attention.",
@@ -216,10 +216,10 @@ export const PEOPLE: Person[] = [
 	background: "img/taffycat36.png",
 	bgcolor: "#FF3371"
 },{
-	name: "Fishtofu",
+	name: "Fishtofu39",
 	bio: "I am just here, I really enjoy making art and attempting at animation.",
 	socials: {
-		twitch: "https://www.twitch.tv/fishtofu39",
+		twitter: "https://twitter.com/Fishtofu39 ",
 		instagram: "https://www.instagram.com/fishtofu39/?hl=en"
 	},
 	background: "img/fishtofu.png",
@@ -348,26 +348,100 @@ export const PEOPLE: Person[] = [
 	background: "img/mookie.jpg",
 	bgcolor: "#D18781",
 	fontsize: "1.75em"
+},{
+	name: "Maxynova",
+	bio: "Digital Artist / 2D animator / In learning of 3D animation\nCheck me out! ",
+	socials: {
+		kofi: "https://ko-fi.com/maxynova5163",
+		twitter: "https://twitter.com/Maxynova3",
+		twitch: "https://www.twitch.tv/maxynovadoesart"
+	},
+	background: "img/maxynova.png",
+	bgcolor: "#D18781",
+	fontsize: "1.75em"
+},{
+	name: "JumbiGrub",
+	bio: "I am a washed up Gartic phone professional. 1 year of graphic design. 2 years of self taught virtual art and animation. I have also been diving into making art for twitch streamers, so I am open for commissions if anyone is interested. ",
+	socials: {
+		kofi: "https://ko-fi.com/jumbigrub",
+		twitter: "https://twitter.com/JumbiGrub",
+		instagram: "https://www.instagram.com/jumbigrub/",
+		link: "https://jumbigrubart.wixsite.com/portfolio"
+	},
+	background: "img/jumbigrub.png",
+	bgcolor: "#D18781",
+	fontsize: "1.75em"
+},{
+	name: "Whitefrog_Draws",
+	bio: "Just a frog who draws. I do hyperrealistic art for now while I try to develop my own personal style. Commissions always open <3",
+	socials: {
+		instagram: "https://instagram.com/whitefrog_draws?utm_medium=copy_link"
+	},
+	background: "img/whitefrog.png",
+	bgcolor: "#ffcc00",
+	fontsize: "1.75em"
+},{
+	name: "JW",
+	bio: "Hi, I use Blender, CSP, and Zbrush to make anything I can think of or that I find cool in general!",
+	socials: {
+		twitter: "https://twitter.com/Seismic_Shrimp"
+	},
+	background: "img/jw.png",
+	bgcolor: "#ffcc00",
+	fontsize: "1.75em"
+},{
+	name: "Komi",
+	bio: "Just a scuffed artist who got picked up by actual professionals.",
+	socials: {
+		instagram: "https://www.instagram.com/komipan_04/"
+	},
+	background: "img/komi.png",
+	bgcolor: "#19191f",
+	fontsize: "2.75em"
+},{
+	name: "Gano",
+	bio: "Just an artist making art :0",
+	socials: {
+		youtube: "https://www.youtube.com/channel/UCP8bm9h7zfbbqlhatIWmZ_Q ",
+		twitter: "https://twitter.com/Gano_art",
+		instagram: "https://www.instagram.com/gano_arts/",
+		twitch: "https://www.twitch.tv/ganotwitch",
+		tiktok: "https://www.tiktok.com/@ganoart?lang=en"
+	},
+	background: "img/gano.png",
+	bgcolor: "#FFFFFF",
+	fontsize: "2.75em"
 }
 ];
 
 export const SLIDESHOW_IMAGES = [
-	"img/photobigchief.png",
 	"img/gartic1.gif",
+	"img/aggie1.png",
+	"img/smash.png",
 	"img/gartic2.gif",
+	"img/gc1.png",
+	"img/aggie2.png",
 	"img/gartic3.gif",
+	"img/aggie3.png",
 	"img/gartic4.gif",
+	"img/aggie4.png",
 	"img/gartic5.gif",
+	"img/aggie5.png",
 	"img/gartic6.gif",
 	"img/gartic7.gif",
+	"img/aggie6.png",
 	"img/gartic8.gif",
 	"img/gartic9.gif",
+	"img/aggie7.png",
 	"img/gartic10.gif",
 	"img/gartic11.gif",
 	"img/gartic12.gif",
-	"img/aggie1.png",
-	"img/aggie2.png",
-	"img/aggie3.png",
-	"img/aggie4.png",
-	"img/aggie5.png"
+	"img/aggie8.png",
+	"img/gartic13.gif",
+	"img/gartic14.gif",
+	"img/gartic15.gif",
+	"img/gartic16.gif",
+	"img/gartic17.gif",
+	"img/gartic18.gif",
+	"img/gartic19.gif"
 ];
