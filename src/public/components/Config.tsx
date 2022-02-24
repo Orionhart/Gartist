@@ -411,6 +411,14 @@ export const PEOPLE: Person[] = [
 	background: "img/gano.png",
 	bgcolor: "#FFFFFF",
 	fontsize: "2.75em"
+},{
+	name: "elebant",
+	bio: "I art and I also razzle dazzle",
+	socials: {
+	},
+	background: "img/elebant.png",
+	bgcolor: "#FFFFFF",
+	fontsize: "1.75em"
 }
 ];
 
