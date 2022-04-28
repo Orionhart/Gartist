@@ -186,11 +186,10 @@ export const PEOPLE: Person[] = [
 	fontsize: "2.3em"
 },{
 	name: "Photosynthesaurus",
-	bio: "I'm a dinosaur who likes to draw, and Chefrossi's sidekick.",
+	bio: "I'm a dinosaur who likes to draw.",
 	socials: {
-		twitch: "https://www.twitch.tv/chefrossi",
-		instagram: "https://www.instagram.com/photo.synthesaurus",
-		link: "https://www.twitch.tv/photosynthesaurus"
+		twitch: "https://www.twitch.tv/photosynthesaurus",
+		instagram: "https://www.instagram.com/photo.synthesaurus"
 	},
 	background: "img/photosynthesaurus.png",
 	bgcolor: "#FF3371",
@@ -223,16 +222,6 @@ export const PEOPLE: Person[] = [
 		instagram: "https://www.instagram.com/fishtofu39/?hl=en"
 	},
 	background: "img/fishtofu.png",
-	bgcolor: "#FF3371"
-},{
-	name: "mangabent",
-	bio: "Artists/cartoonist whose interests include dnd, fantasy, anime, pokemon, and sci-fi",
-	socials: {
-		twitch: "https://twitch.tv/mangabent",
-		instagram: "https://www.instagram.com/dndndoodles/",
-		discord: "https://discord.gg/VxpBb4JPUh"
-	},
-	background: "img/mangabent.png",
 	bgcolor: "#FF3371"
 },{
 	name: "PandaaNoms",
