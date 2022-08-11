@@ -1,0 +1,28 @@
+setup:
+git clone https://github.com/Orionhart/Gartist.git
+npm i
+
+building it:
+npm run build
+or you can do:
+npm run watch
+and that will listen for file changes and build when they are changed
+
+running it:
+node .
+Orionhart — 12/21/2021
+how to push?
+git push -> i -> ctrl C :wq
+Infernis — 12/21/2021
+order of git operations:
+git add *
+git commit
+you get put into vim and you change to edit mode by pressing:
+I
+then type your commit message
+and then press 
+Ctrl+C
+and type ":wq" to exit vim
+then run:
+git push
+to push your changes
