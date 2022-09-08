@@ -8,7 +8,7 @@ export const PEOPLE: Person[] = [
             twitch: "https://twitch.tv/orionhart",
             twitter: "https://twitter.com/OrionhartLive",
             kofi: "http://ko-fi.com/orionhart",
-            link: "samuelreinhart.com"
+            link: "https://samuelreinhart.com"
         },
         background: "img/star.png",
         bgcolor: "black"
@@ -273,7 +273,7 @@ export const PEOPLE: Person[] = [
             twitter: "https://twitter.com/jessyabeb",
             kofi: "https://ko-fi.com/jessyabeb",
             instagram: "https://www.instagram.com/jessyabeb/",
-            link: "jessyabeb.com"
+            link: "http://jessyabeb.com"
         },
         background: "img/jessyabeb.png",
         bgcolor: "#FF3371"
@@ -303,7 +303,7 @@ export const PEOPLE: Person[] = [
         name: "Gali Odie",
         bio: "Hi! I'm Gali! Just a gal passionate in animation!",
         socials: {
-            instagram: "instagram.com/gali_lodie"
+            instagram: "https://instagram.com/gali_lodie"
         },
         background: "img/galiodie.png",
         bgcolor: "#FF3371",
@@ -443,7 +443,7 @@ export const PEOPLE: Person[] = [
         },
         background: "img/butterscotchpecan.png",
         bgcolor: "#FFFFFF",
-        fontsize: "2.5em"
+        fontsize: "1.75em"
     }, {
         name: "Smoll Cinnamon Roll",
         bio: "I am a short left handed human that draws and has dreamt to become an animator since high school.",
@@ -457,7 +457,7 @@ export const PEOPLE: Person[] = [
         },
         background: "img/smollcinammonroll.png",
         bgcolor: "#FFFFFF",
-        fontsize: "2em"
+        fontsize: "1.5em"
     }, {
         name: "Dafman",
         bio: "I eat crayons and sometimes draw too. :)",
@@ -479,16 +479,20 @@ export const PEOPLE: Person[] = [
         },
         background: "img/miz.png",
         bgcolor: "#FFFFFF",
-        fontsize: "2.5em"
+        fontsize: "2em"
     }
 ];
 
 export const SLIDESHOW_IMAGES = [
+    "img/santa.png",
     "img/gartic1.gif",
+    "img/Eyecatch001.png",
     "img/aggie1.png",
     "img/smash.png",
+    "img/Eyecatch002.png",
     "img/gartic2.gif",
     "img/gc1.png",
+    "img/Eyecatch004.png",
     "img/aggie2.png",
     "img/gartic3.gif",
     "img/aggie3.png",
@@ -512,5 +516,17 @@ export const SLIDESHOW_IMAGES = [
     "img/gartic16.gif",
     "img/gartic17.gif",
     "img/gartic18.gif",
-    "img/gartic19.gif"
+    "img/gartic19.gif",
+    "img/01.png",
+    "img/02.png",
+    "img/03.png",
+    "img/04.png",
+    "img/05.png",
+    "img/06.png",
+    "img/07.png",
+    "img/08.png",
+    "img/09.png",
+    "img/10.png",
+    "img/11.png",
+    "img/12.png"
 ];
