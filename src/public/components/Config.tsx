@@ -449,13 +449,12 @@ export const PEOPLE: Person[] = [
         bio: "I am a short left handed human that draws and has dreamt to become an animator since high school.",
         socials: {
             youtube: "http://www.youtube.com/channel/UCAVl1UxjV1JRjTww5X3ZVXA/videos",
-            instagram: "https://www.Instagram.com/butterscotchpecan/",
             twitter: "https://twitter.com/RollSmoll",
             twitch: "https://www.twitch.tv/smollcinnamonrolla",
             deviantart: "https://www.deviantart.com/smollcinnamonroll-a",
             link: "https://www.reddit.com/user/SmollCinnamonRoll_A"
         },
-        background: "img/smollcinammonroll.png",
+        background: "img/smollcinamonroll.png",
         bgcolor: "#FFFFFF",
         fontsize: "1.5em"
     }, {
