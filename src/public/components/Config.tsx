@@ -454,7 +454,7 @@ export const PEOPLE: Person[] = [
             deviantart: "https://www.deviantart.com/smollcinnamonroll-a",
             link: "https://www.reddit.com/user/SmollCinnamonRoll_A"
         },
-        background: "img/smollcinamonroll.png",
+        background: "img/smollcinnamonroll.png",
         bgcolor: "#FFFFFF",
         fontsize: "1.5em"
     }, {
